@@ -7,5 +7,5 @@ try:
 except:
     print('O site Pudim não está acessivel no momento')
 else:
-    print(f'Consegui acessar o site com suceso')
+    print(f'Consegui acessar o site com sucesso')
 
