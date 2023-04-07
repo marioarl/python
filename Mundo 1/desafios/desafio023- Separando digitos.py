@@ -6,12 +6,30 @@
 # milhar: 1
 
 #minha resposta
-num = str(input('Digite um numero: ')).strip()
-lista_num = list(num)
-print(f'Unidade.: {lista_num[3]}')
-print(f'Dezena..: {lista_num[2]}')
-print(f'Centena.: {lista_num[1]}')
-print(f'Milhar..: {lista_num[0]}')
+numero = str(input('Digite um numero inteiro: ')).strip()
+lista_num = list(numero)
+if int(numero) >=0 and int(numero) <=9:
+    print(f'Unidade.: {lista_num[0]}')
+    print(f'Dezena..: 0')
+    print(f'Centena.: 0')
+    print(f'Milhar..: 0')
+elif int(numero) >=10 and int(numero) <=99:
+    print(f'Unidade.: {lista_num[1]}')
+    print(f'Dezena..: {lista_num[0]}')
+    print(f'Centena.: 0')
+    print(f'Milhar..: 0')
+elif int(numero) >=100 and int(numero) <=999:
+    print(f'Unidade.: {lista_num[2]}')
+    print(f'Dezena..: {lista_num[1]}')
+    print(f'Centena.: {lista_num[0]}')
+    print(f'Milhar..: 0')
+elif int(numero) >=1000 and int(numero) <=9999:
+    print(f'Unidade.: {lista_num[3]}')
+    print(f'Dezena..: {lista_num[2]}')
+    print(f'Centena.: {lista_num[1]}')
+    print(f'Milhar..: {lista_num[0]}')
+else:
+    print(f'Numero {numero} está fora do escopo do programa, tente um numero de 0 até 9999')
 
 #resposta do Gustavo
 num = int(input('Informe o numero: '))
