@@ -5,10 +5,13 @@
 # centena: 8
 # milhar: 1
 
-#minha resposta 1(nao consegui fazer)
-#num = str(input('Informe o numero: '))
-#print('Analisando o numero {}'.format(num))
-#print (len(num))
+#minha resposta
+num = str(input('Digite um numero: ')).strip()
+lista_num = list(num)
+print(f'Unidade.: {lista_num[3]}')
+print(f'Dezena..: {lista_num[2]}')
+print(f'Centena.: {lista_num[1]}')
+print(f'Milhar..: {lista_num[0]}')
 
 #resposta do Gustavo
 num = int(input('Informe o numero: '))
