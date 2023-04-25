@@ -15,10 +15,9 @@ for p in range(1,5):
     if sexo in "M" and p ==1:
         homemMaisVelho = idade
         nomeMaisVelho = nome
-    else:
-        if idade > homemMaisVelho:
-            homemMaisVelho = idade
-            nomeMaisVelho = nome
+    if sexo in "M" and idade > homemMaisVelho:
+        homemMaisVelho = idade
+        nomeMaisVelho = nome
     if sexo in "F" and idade < 20:
         mulherMenos20 += 1
 media = somaIdade / 4
