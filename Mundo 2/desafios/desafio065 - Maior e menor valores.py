@@ -1,6 +1,8 @@
 #crie um programa que leia varios numeros inteiros pelo teclado. No final da execucao, mostre
 #a media entre todos os valores e qual foi o maior e o menor valores lidos. O programa deve perguntar ao
 #usuario se ele quer ou nao continuar a digitar
+
+#resposta do Gustavo
 resp = 'S'
 soma = quant = media = maior = menor = 0
 while resp in 'Ss':
