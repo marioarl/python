@@ -27,5 +27,5 @@ while True:
         if total == 0:
             break
 print('=' * 30)
-print('Volte semre a BANCO CEV! Tenha um bom dia!')
+print('Volte sempre a BANCO CEV! Tenha um bom dia!')
 
