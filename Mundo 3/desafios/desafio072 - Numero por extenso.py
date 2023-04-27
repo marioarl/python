@@ -12,3 +12,13 @@ while True:
     else:
         break
 print(f'Voce digitou o numero {extenso[digit]}')
+
+#resposta do Gustavo
+cont = ('Zero', 'Um', 'Dois', 'Tres', 'Quatro', 'Cinco', 'Seis', 'Sete', 'Oito', 'Nove', 'Dez',
+        'Onze', 'Doze', 'Treze', 'Quatorze', 'QUinze', 'Dezesseis', 'Dezessete', 'Dezoito', 'Dezenove', 'Vinte')
+while True:
+    num = int(input('Digite um numero entre 0 e 20: '))
+    if 0 <= num <=20:
+        break
+    print('tente novamente.', end='')
+print(f'Voce digitou o numero {cont[num]}')
