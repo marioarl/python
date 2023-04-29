@@ -25,8 +25,6 @@
 #        print(f'{i}...', end='')
 #print()
 
-
-
 #programa melhorado, utilizando o metodo max e min e retirando o bloco da logica para achar o maior
 #e o menor valor
 num = []
