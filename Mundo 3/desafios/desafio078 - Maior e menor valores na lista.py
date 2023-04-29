@@ -25,8 +25,7 @@ for i, v in enumerate(num):
         print(f'{i}...', end='')
 print()"""
 
-#programa melhorado, utilizando o metodo max e min e retirando o bloco da logica para achar o maior
-#e o menor valor
+#programa melhorado, utilizando o metodo max e min e retirando o bloco da logica para achar o maior e o menor valor
 num = []
 for c in range(0, 5):
     num.append(int(input(f'Digite um valor na posicao {c}: ')))
