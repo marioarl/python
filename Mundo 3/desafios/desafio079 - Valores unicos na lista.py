@@ -17,3 +17,7 @@ print('-=-'*15)
 num.sort()
 print(f'Voce digitou os valores {num}')
 
+#resposta do Gustavo
+numeros = list()
+while True:
+    n = int(input('Digite um valor: '))
