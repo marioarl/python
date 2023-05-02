@@ -21,3 +21,6 @@ print(f'Voce digitou os valores {num}')
 numeros = list()
 while True:
     n = int(input('Digite um valor: '))
+    if n not in numeros:
+        numeros.append(n)
+        print('Valor adicionado com sucesso...')
