@@ -24,3 +24,5 @@ while True:
     if n not in numeros:
         numeros.append(n)
         print('Valor adicionado com sucesso...')
+    else:
+        print('Valor duplicado! Não vou adicionar...')
