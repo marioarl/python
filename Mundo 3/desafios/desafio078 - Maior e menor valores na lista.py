@@ -42,4 +42,7 @@ for i, v in enumerate(num):
         print(f'{i}...', end='')
 print()
 
+#resposta do Gustavo
+listanum = []
+
 
