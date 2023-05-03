@@ -1,7 +1,7 @@
-#crie um programa que leia varios numeros e colocar em uma lista. Depois disso mostre:
-#A) Quantos numeros forma digitados
-#B) A lista de valores ordenada de forma decrescente
-#C) Se o valor 5 foi digitado e está ou nao na lista
+'''crie um programa que leia varios numeros e colocar em uma lista. Depois disso mostre:
+A) Quantos numeros forma digitados
+B) A lista de valores ordenada de forma decrescente
+C) Se o valor 5 foi digitado e está ou nao na lista'''
 
 #minha resposta
 #num = []
