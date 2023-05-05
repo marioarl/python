@@ -8,6 +8,9 @@ frase = str(input("Digite algo: "))
 print(f"O tipo primitivo desse valor é {type(frase)}")
 print(f"Só tem espaços? ", frase.isspace())
 print(f"É um numero? ", frase.isnumeric())
+print(f"É alfabetico? ", frase.isalpha())
+print(f"É alfanumerico? ", frase.isalnum())
+print(f"Está em maiusculas? ", frase.isupper())
 
 
 
