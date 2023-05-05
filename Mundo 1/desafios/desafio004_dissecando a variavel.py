@@ -4,6 +4,11 @@ tipo primitivo e todas as informações possiveis sobre ela
 """
 
 #minha resposta
+
+
+
+
+#Resposta do Gustavo
 a = input('Digite algo: ')
 print('O tipo primitivo desse valor é ', type(a))
 print('Só tem espaços? ', a.isspace())
