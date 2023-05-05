@@ -7,6 +7,7 @@ tipo primitivo e todas as informações possiveis sobre ela
 frase = str(input("Digite algo: "))
 print(f"O tipo primitivo desse valor é {type(frase)}")
 print(f"Só tem espaços? ", frase.isspace())
+print(f"É um numero? ", frase.isnumeric())
 
 
 
