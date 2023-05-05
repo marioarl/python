@@ -15,8 +15,6 @@ print(f"Está em minusculas? ", frase.islower())
 print(f"Está capitalizada? ", frase.istitle())
 
 
-
-
 #Resposta do Gustavo
 '''a = input('Digite algo: ')
 print('O tipo primitivo desse valor é ', type(a))
