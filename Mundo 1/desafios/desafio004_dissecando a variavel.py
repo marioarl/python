@@ -11,7 +11,8 @@ print(f"É um numero? ", frase.isnumeric())
 print(f"É alfabetico? ", frase.isalpha())
 print(f"É alfanumerico? ", frase.isalnum())
 print(f"Está em maiusculas? ", frase.isupper())
-
+print(f"Está em minusculas? ", frase.islower())
+print(f"Está capitalizada? ", frase.istitle())
 
 
 
