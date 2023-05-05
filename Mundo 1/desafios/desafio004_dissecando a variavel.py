@@ -4,7 +4,8 @@ tipo primitivo e todas as informações possiveis sobre ela
 """
 
 #minha resposta
-
+frase = str(input("Digite algo: ")).strip()
+print(f"O tipo primitivo desse valor é {type(frase)}")
 
 
 
