@@ -1,4 +1,6 @@
-'''Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua area e a quantidade de tinta necessaria para pinta-la, sabendo que cada litro de tinta pinta uma área de 2m quadrados'''
+'''
+Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua area e a quantidade de tinta necessaria para pinta-la, sabendo que cada litro de tinta pinta uma área de 2m quadrados
+'''
 
 #minha resposta
 print('\033[1;36m=\033[m' * 10, '\033[1;7;35mQUANTIDADE DE TINTA\033[m', '\033[1;36m=\033[m' * 10)
