@@ -1,4 +1,6 @@
-#faça um algoritmo que leia o preço de um produto e mostre seu novo preço com 5% de desconto
+'''
+faça um algoritmo que leia o preço de um produto e mostre seu novo preço com 5% de desconto
+'''
 
 #minha resposta
 print('\033[1;36m+=\033[m'*15, '\033[1;7;36mPRODUTO COM DESCONTO\033[m', '\033[1;36m+=\033[m'*15)
