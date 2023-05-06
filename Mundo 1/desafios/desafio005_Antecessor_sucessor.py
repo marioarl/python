@@ -1,5 +1,5 @@
-# faça um programa que leia um numero inteiro e mostre na tela o seu sucessor e sue antecessor
-
+'''faça um programa que leia um numero inteiro e mostre na tela o seu sucessor e sue antecessor
+'''
 #minha resposta
 print('\033[1;32m=-'*10, '\033[7mANALISE DE NUMERO\033[m', '\033[1;32m-=\033[m'*10)
 n = int(input('\033[1;34mDigite um numero:\033[m '))
