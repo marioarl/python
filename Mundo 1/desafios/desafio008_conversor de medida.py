@@ -1,5 +1,5 @@
-# escreva um programa que leia um valor em metros e o exiba convertido em centimetros e milimetros
-
+'''escreva um programa que leia um valor em metros e o exiba convertido em centimetros e milimetros
+'''
 # minha resposta
 print('\033[1;33m(\033[m'*20, '\033[7;33mCONVERSOR DE MEDIDA\033[m', '\033[1;33m)\033[m'*20)
 metros = float(input('\n\033[1;32mDigite o valor em metros: \033[m'))
