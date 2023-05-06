@@ -1,5 +1,6 @@
-#Escreva um programa que converta uma temperatura digitada em graus Celcius para Farenheit
-
+'''
+Escreva um programa que converta uma temperatura digitada em graus Celcius para Farenheit
+'''
 #minha resposta
 temp = float(input('Informe a temperatura em C: '))
 f = ((9 * temp) / 5) + 32
