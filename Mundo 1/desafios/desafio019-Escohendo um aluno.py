@@ -21,9 +21,3 @@ print('O Aluno escolhido foi', escolhido)'''
 #lista = [n1, n2, n3, n4]
 #escolhido = random.choice(lista)
 #print('O aluno escolhido foi {}'.format(escolhido))
-from random import choices
-fruits = ['apple', 'pineapple', 'orange', 'guava', 'banana']
-
-snack = choices(fruits, k=2)
-
-print(snack)
