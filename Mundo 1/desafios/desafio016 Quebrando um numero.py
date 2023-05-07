@@ -1,6 +1,8 @@
-#Crie um programa que leia um numero Real qualquer pelo teclado e mostre na tela a sua porçao
-# inteira EX: Digite o numero: 6.127 O numero 6.127 tem a parte inteira 6
+'''
+Crie um programa que leia um numero Real qualquer pelo teclado e mostre na tela a sua porçao
+inteira EX: Digite o numero: 6.127 O numero 6.127 tem a parte inteira 6
 
+'''
 #minha resposta
 #from math import trunc
 #num = float(input('Digite o numero: '))
