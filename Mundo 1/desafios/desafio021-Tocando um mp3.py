@@ -1,4 +1,4 @@
-#faça um programa que abra e reproduza o audio de um arquivo mp3
+'''faça um programa que abra e reproduza o audio de um arquivo mp3'''
 
 #resposta do Gustavo
 import pygame
