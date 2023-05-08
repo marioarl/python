@@ -1,8 +1,8 @@
-#Crie um programa que leia o nome completo da pessoa e mostre:
-#* O nome com todas as letras maiusculas
-#* o nome com todas as letras minusculas
-#* Quantas letras ao tem o nome (sem considerar o espaco)
-#* Quantas letras tem o primeiro nome
+'''Crie um programa que leia o nome completo da pessoa e mostre:
+* O nome com todas as letras maiusculas
+* o nome com todas as letras minusculas
+* Quantas letras ao tem o nome (sem considerar o espaco)
+* Quantas letras tem o primeiro nome'''
 
 #minha resposta
 #nome = str(input('Digite seu nome completo: '))
