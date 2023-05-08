@@ -1,4 +1,4 @@
-# Crie um programa que leia o nome de uma cidade e diga se ela começa ou nao com nome de "Santo"
+'''Crie um programa que leia o nome de uma cidade e diga se ela começa ou nao com nome de "Santo"'''
 
 #minha resposta
 cidade = str(input('Em que cidade voce nasceu? ')).strip()
