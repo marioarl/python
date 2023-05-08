@@ -1,4 +1,6 @@
-'''Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.'''
+'''
+Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
+'''
 
 #minha resposta
 #nome = str(input('Qual o seu nome completo? ')).strip()
