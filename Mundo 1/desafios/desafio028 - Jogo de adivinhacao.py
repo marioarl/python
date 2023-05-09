@@ -1,6 +1,5 @@
-#Escreva um programa que faça o computador "pensar" em um numero inteiro entre 0 e 5 e peça
-#para o usuario tentar descobrir qual foi o numero escolhido pelo computador.
-# o computador devera escrever se o usuario venceu ou perdeu
+'''Escreva um programa que faça o computador "pensar" em um numero inteiro entre 0 e 5 e peça para o usuario tentar descobrir qual foi o numero escolhido pelo computador.
+o computador devera escrever se o usuario venceu ou perdeu'''
 
 #minha resposta
 #import random
