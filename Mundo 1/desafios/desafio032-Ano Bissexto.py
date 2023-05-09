@@ -1,4 +1,4 @@
-#faça um programa que leia um ano qualquer e mostre se ele é Bissexto
+#Faça um programa que leia um ano qualquer e mostre se ele é Bissexto
 
 #minha resposta - nao consegui esta dando erro
 #from datetime import date
