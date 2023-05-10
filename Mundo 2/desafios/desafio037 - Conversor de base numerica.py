@@ -1,6 +1,8 @@
-'''escreva um programa que leia um numero inteiro qualquer e peça para o usuario escolher qual será
+'''
+Escreva um programa que leia um numero inteiro qualquer e peça para o usuario escolher qual será
 a base de conversao:
-1 binario     2 octal     3 hexadecimal'''
+1 binario     2 octal     3 hexadecimal
+'''
 
 #minha resposta
 #num = int(input('Digite um número inteiro:'))
