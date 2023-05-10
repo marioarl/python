@@ -1,5 +1,7 @@
-'''Desenvolva um programa que leia o comprimento e tres retas e diga ao usuario se elas
-podem ou nao formar um triangulo'''
+'''
+Desenvolva um programa que leia o comprimento e tres retas e diga ao usuario se elas
+podem ou nao formar um triangulo
+'''
 
 #minha resposta
 print('-='*20)
