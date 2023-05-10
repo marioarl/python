@@ -1,7 +1,7 @@
-#escreva um programa para aprovar o emprestimo bancario para a compra de uma casa. O programa
-#vai perguntar o valor da casa , o salario do comprador e em quantos anos ele vai pagar.
-#Calcule o valor da prestacao mensal, sabendo que ela nao pode exceder 30% do salario ou entao
-#o emprestimo será negado
+'''escreva um programa para aprovar o emprestimo bancario para a compra de uma casa. O programa
+vai perguntar o valor da casa , o salario do comprador e em quantos anos ele vai pagar.
+Calcule o valor da prestacao mensal, sabendo que ela nao pode exceder 30% do salario ou entao
+o emprestimo será negado'''
 
 #minha resposta
 #casav = float(input('Valor da casa: R$ '))
