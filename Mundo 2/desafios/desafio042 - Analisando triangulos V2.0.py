@@ -1,6 +1,5 @@
 '''
-Refaça o DESAFIO035 dos triangulos, acrescentando o recurso de mostrar que tipo de triangulo
-acrescentando o recurso de mostrar que tipo de trinagulo será formado:
+Refaça o DESAFIO035 dos triangulos, acrescentando o recurso de mostrar que tipo de triangulo acrescentando o recurso de mostrar que tipo de trinagulo será formado:
 Equilatero: todos os lados iguais
 isoceles: dois lados iguais
 Escaleno: todos os lados diferentes
