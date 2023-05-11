@@ -1,10 +1,11 @@
-'''A confederacao Nacional de Natacao precisa de um programa que leia o ano de nascimento de um atleta
- e mostre sua categoria, de acordo com a idade:
+'''
+A confederacao Nacional de Natacao precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade:
 até 9 anos: MIRIM
 Até 14 anos: INFANTIL
 Até 19 anos: JUNIOR
 Até 25 anos: SENIOR
-Acima : MASTER'''
+Acima : MASTER
+'''
 
 #minha resposta
 #from datetime import date
