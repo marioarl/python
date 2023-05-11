@@ -1,8 +1,10 @@
-'''Refaça o DESAFIO035 dos triangulos, acrescentando o recurso de mostrar que tipo de triangulo
+'''
+Refaça o DESAFIO035 dos triangulos, acrescentando o recurso de mostrar que tipo de triangulo
 acrescentando o recurso de mostrar que tipo de trinagulo será formado:
 Equilatero: todos os lados iguais
 isoceles: dois lados iguais
-Escaleno: todos os lados diferentes'''
+Escaleno: todos os lados diferentes
+'''
 
 #minha resposta
 #r1 = float(input('Primeiro segmento: '))
