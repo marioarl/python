@@ -1,10 +1,10 @@
-#desenvolva uma logica que leia o peso e a altura de uma pessoa, calcule seu IMC e mostre seu
-#STATUS, de acordo com a tabela abaixo:
-# - Abaixo de 18.5: Abaixo do peso
-# - Entre 18.5 e 25: Peso ideal
-# - 25 até 30: Sobrepeso
-# - 30 até 40: Obesidade
-# - Acima de 40: Obesidade Morbida
+'''desenvolva uma logica que leia o peso e a altura de uma pessoa, calcule seu IMC e mostre seu
+STATUS, de acordo com a tabela abaixo:
+ - Abaixo de 18.5: Abaixo do peso
+ - Entre 18.5 e 25: Peso ideal
+ - 25 até 30: Sobrepeso
+ - 30 até 40: Obesidade
+ - Acima de 40: Obesidade Morbida'''
 
 #minha resposta
 #peso = float(input('Qual é o seu peso? (Kg) '))
