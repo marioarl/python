@@ -1,8 +1,10 @@
-'''escreva um programa que leia dois numeros inteiros  e compare-os, mostrando na tela uma
+'''
+Escreva um programa que leia dois numeros inteiros  e compare-os, mostrando na tela uma
 mensagem:
 O primeiro valor é maior
 o segundo valor é maior
-nao existe valor maior, os dois sao iguais'''
+nao existe valor maior, os dois sao iguais
+'''
 
 #minha resposta
 #num1 = int(input('Primeiro numero: '))
