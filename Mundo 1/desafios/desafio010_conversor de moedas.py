@@ -35,8 +35,8 @@ if moeda == 'EURO' and conv == 'DOLAR':
     print('Com € {:.2f} voce pode comprar US$ {:.2f}'. format(d, d / 0.83))
 
 
-#resposta do Gustavo
-#real = float(input('Quanto dinheiro voce tem na carteira? R$ '))
-#dolar = real / 3.27
-#print('Com R${:.2f} voce pode comprar US${:.2f}'.format(real, dolar))
+#Resposta do Gustavo
+real = float(input('Quanto dinheiro voce tem na carteira? R$ '))
+dolar = real / 3.27
+print('Com R${:.2f} voce pode comprar US${:.2f}'.format(real, dolar))
 
