@@ -1,15 +1,13 @@
 '''Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dolares ela pode comprar. Considere US$ 1,00 = R$ 3,27'''
 
 #Minha resposta
-'''
 print ('='*50)
 print('CONVERSOR DE MOEDA')
 print('='*50)
-d = float(input ('| Quanto dinheiro voce tem na carteira? R$ '))
+dinheiro = float(input ('| Quanto dinheiro voce tem na carteira? R$ '))
 print ('|')
-print('| Com R${:.2f} voce pode comprar US${:.2f}!'.format(d, d / 3.27))
+print('| Com R${:.2f} voce pode comprar US${:.2f}!'.format(dinheiro, dinheiro / 3.27))
 print('='*50)
-'''
 
 #minha resposta melhorada
 print ('='*50)
