@@ -3,11 +3,11 @@ Crie um programa que leia um numero Real qualquer pelo teclado e mostre na tela 
 inteira EX: Digite o numero: 6.127 O numero 6.127 tem a parte inteira 6
 
 '''
-#minha resposta
-#from math import trunc
-#num = float(input('Digite o numero: '))
-#parte = trunc(num)
-#print('O valor digitado foi {} e sua porção inteira é {}'.format(num, parte))
+#Minha resposta
+from math import trunc
+num = float(input('Digite o numero: '))
+parte = trunc(num)
+print('O valor digitado foi {} e sua porção inteira é {}'.format(num, parte))
 
 #resposta 1 do Gustavo
 #import math
