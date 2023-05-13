@@ -7,6 +7,6 @@ cidade = str(input('Em que cidade voce nasceu? ')).strip()
 print(cidade)
 print(cidade[:5].upper() == 'SANTO')
 
-#resposta do Gustavo
-#cid = str(input('Em que cidade voce nasceu?')).strip()
-#print(cid[:5].upper() == 'SANTO')
+#Resposta do Gustavo
+cid = str(input('Em que cidade voce nasceu?')).strip()
+print(cid[:5].upper() == 'SANTO')
