@@ -1,15 +1,15 @@
 #Faça um programa que leia um ano qualquer e mostre se ele é Bissexto
 
-#minha resposta - nao consegui esta dando erro
-#from datetime import date
-#ano = int(input("Que ano quer analisar? Coloque 0 para analisar o ano atual: "))
-#if ano == 0:
-#    ano = date.today().year
-#print(f"O ano {ano} ", end="")
-#if ano % 4 == 0 and ano % 100 != 0 or ano % 400 == 0:
-#    print(f"é BISSEXTO")
-#else:
-#    print(f"não é BISSEXTO")
+#Minha resposta - nao consegui esta dando erro
+from datetime import date
+ano = int(input("Que ano quer analisar? Coloque 0 para analisar o ano atual: "))
+if ano == 0:
+    ano = date.today().year
+print(f"O ano {ano} ", end="")
+if ano % 4 == 0 and ano % 100 != 0 or ano % 400 == 0:
+    print(f"é BISSEXTO")
+else:
+    print(f"não é BISSEXTO")
 
 #resposta do Gustavo
 from datetime import date
