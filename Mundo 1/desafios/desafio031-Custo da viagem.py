@@ -12,14 +12,14 @@ if dist <= 200:
 else:
     print('E o preço da sua passagem será de R${:.2f}'.format(dist * 0.45))
 
-#resposta1 do Gustavo
-#distancia = float(input('Qual a distancia da sua viagem? '))
-#print('Voce está prestes a começar uma viagem de {:.1f}Km'.format(distancia))
-#if distancia <= 200:
-#    preco = distancia * 0.50
-#else:
-#    preco = distancia * 0.45
-#print('E o preço da sua passagem será de R${:.2f}'.format(preco))
+#Resposta1 do Gustavo
+distancia = float(input('Qual a distancia da sua viagem? '))
+print('Voce está prestes a começar uma viagem de {:.1f}Km'.format(distancia))
+if distancia <= 200:
+    preco = distancia * 0.50
+else:
+    preco = distancia * 0.45
+print('E o preço da sua passagem será de R${:.2f}'.format(preco))
 
 #resposta2 do gustavo
 distancia = float(input('Qual a distancia da sua viagem? '))
