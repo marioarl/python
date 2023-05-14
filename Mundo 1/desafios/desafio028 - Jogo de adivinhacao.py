@@ -3,16 +3,16 @@ Escreva um programa que faça o computador "pensar" em um numero inteiro entre 0
 o computador devera escrever se o usuario venceu ou perdeu
 '''
 
-#minha resposta
-#import random
-#print('-=-'*20, '\n Vou pensar em um numero entre 0 e 5. tente adivinhar...\n', '-=-'*20)
-#numero = int(input('Em que numero pensei? '))
-#ncomp = random.choice([1, 2, 3, 4, 5])
-#print('PROCESSANDO...')
-#if numero == ncomp:
-#    print('PARABENS! Voce conseguiu me vencer!')
-#else:
-#    print('GANHEI! Eu pensei no numero {} e não no {}!'.format(ncomp, numero))
+#Minha resposta
+import random
+print('-=-'*20, '\n Vou pensar em um numero entre 0 e 5. tente adivinhar...\n', '-=-'*20)
+numero = int(input('Em que numero pensei? '))
+ncomp = random.choice([1, 2, 3, 4, 5])
+print('PROCESSANDO...')
+if numero == ncomp:
+    print('PARABENS! Voce conseguiu me vencer!')
+else:
+    print('GANHEI! Eu pensei no numero {} e não no {}!'.format(ncomp, numero))
 
 #resposta do Gustavo
 from random import randint
