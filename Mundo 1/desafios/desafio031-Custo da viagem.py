@@ -4,13 +4,13 @@ Calcule o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km 
 para viagens mais longas.
 '''
 
-#minha resposta
-#dist = float(input('Qual a distancia da sua viagem? '))
-#print('Voce está prestes a começar uma viagem de {:.1f}Km'.format(dist))
-#if dist <= 200:
-#    print('E o preço da sua passagem será de R${:.2f}'.format(dist * 0.50))
-#else:
-#    print('E o preço da sua passagem será de R${:.2f}'.format(dist * 0.45))
+#Minha resposta
+dist = float(input('Qual a distancia da sua viagem? '))
+print('Voce está prestes a começar uma viagem de {:.1f}Km'.format(dist))
+if dist <= 200:
+    print('E o preço da sua passagem será de R${:.2f}'.format(dist * 0.50))
+else:
+    print('E o preço da sua passagem será de R${:.2f}'.format(dist * 0.45))
 
 #resposta1 do Gustavo
 #distancia = float(input('Qual a distancia da sua viagem? '))
