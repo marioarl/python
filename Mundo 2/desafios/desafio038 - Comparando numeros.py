@@ -6,15 +6,15 @@ o segundo valor é maior
 nao existe valor maior, os dois sao iguais
 '''
 
-#minha resposta
-#num1 = int(input('Primeiro numero: '))
-#num2 = int(input('Segundo numero: '))
-#if num1 > num2:
-#    print('O PRIMEIRO valor é maior')
-#elif num1 < num2:
-#    print('O SEGUNDO valor é maior')
-#elif num1 == num2:
-#    print('Os dois valores são IGUAIS')
+#Minha resposta
+num1 = int(input('Primeiro numero: '))
+num2 = int(input('Segundo numero: '))
+if num1 > num2:
+    print('O PRIMEIRO valor é maior')
+elif num1 < num2:
+    print('O SEGUNDO valor é maior')
+elif num1 == num2:
+    print('Os dois valores são IGUAIS')
 
 #resposta do Gustavo
 
