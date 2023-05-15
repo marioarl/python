@@ -7,21 +7,21 @@ Desenvolva uma logica que leia o peso e a altura de uma pessoa, calcule seu IMC 
  - Acima de 40: Obesidade Morbida
  '''
 
-#minha resposta
-#peso = float(input('Qual é o seu peso? (Kg) '))
-#altura = float(input('Qual é sua altura? (m) '))
-#imc = peso / (altura**2)
-#print('O IMC dessa pessoa é de {:.1f}'.format(imc))
-#if imc < 18.5:
-#    print('Voce está ABAIXO DO PESO normal')
-#elif imc <= 25:
-#    print('PARABÉNS, voce está na faixa de PESO IDEAL')
-#elif imc <= 30:
-#    print('Voce está em SOBREPESO')
-#elif imc <= 40:
-#    print('Voce está em OBESIDADE!')
-#elif imc > 40:
-#    print('Voce está em OBESIDADE MORBIDA, CUIDADO!')
+#Minha resposta
+peso = float(input('Qual é o seu peso? (Kg) '))
+altura = float(input('Qual é sua altura? (m) '))
+imc = peso / (altura**2)
+print('O IMC dessa pessoa é de {:.1f}'.format(imc))
+if imc < 18.5:
+    print('Voce está ABAIXO DO PESO normal')
+elif imc <= 25:
+    print('PARABÉNS, voce está na faixa de PESO IDEAL')
+elif imc <= 30:
+    print('Voce está em SOBREPESO')
+elif imc <= 40:
+    print('Voce está em OBESIDADE!')
+elif imc > 40:
+    print('Voce está em OBESIDADE MORBIDA, CUIDADO!')
 
 #resposta do Gustavo
 peso = float(input('Qual é o seu peso? (Kg) '))
