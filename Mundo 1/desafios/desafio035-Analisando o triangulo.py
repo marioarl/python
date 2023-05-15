@@ -14,3 +14,15 @@ if s1 + s2 > s3 and s2 + s3 > s1 and s1 + s3 > s2: #condicao de existencia do tr
     print('Os segmentos acima PODEM FORMAR triangulo')
 else:
     print('Os segmentos acima NÃO PODEM FORMAR triangulo')
+
+#Resposta do Guanabara
+print('='*20)
+print('Analisador de Triangulos')
+print('='*20)
+r1 = float(input('Primeiro segmento: '))
+r2 = float(input('Segundo segmento: '))
+r3 = float(input('Terceiro segmento: '))
+if r1 < r2 + r3 and r2 < r1 + r3 and r3 < r1 + r2:
+    print('Os segmentos acima PODEM FORMAR triangulo!')
+else:
+    print('Os segmentos acima NÃO PODEM FORMAR triangulo!')
