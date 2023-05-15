@@ -6,17 +6,17 @@ no final, de acordo com a media atingida:
  - média 7.0 ou superior APROVADO
  '''
 
-#minha resposta
-#nt1 = float(input('Primeira nota: '))
-#nt2 = float(input('Segunda nota: '))
-#media = (nt1 + nt2) / 2
-#print('Tirando {} e {} a média do aluno é {:.1f}'.format(nt1, nt2, media))
-#if media >= 7.0:
-#    print('O aluno está APROVADO!')
-#elif media < 7.0 and media >= 5.0:
-#    print('O aluno está de RECUPERAÇÃO!')
-#elif media < 5.0:
-#    print('O aluno está REPROVADO!')
+#Minha resposta
+nt1 = float(input('Primeira nota: '))
+nt2 = float(input('Segunda nota: '))
+media = (nt1 + nt2) / 2
+print('Tirando {} e {} a média do aluno é {:.1f}'.format(nt1, nt2, media))
+if media >= 7.0:
+    print('O aluno está APROVADO!')
+elif media < 7.0 and media >= 5.0:
+    print('O aluno está de RECUPERAÇÃO!')
+elif media < 5.0:
+    print('O aluno está REPROVADO!')
 
 #resposta Gustavo
 nota1 = float(input('Primeira nota: '))
