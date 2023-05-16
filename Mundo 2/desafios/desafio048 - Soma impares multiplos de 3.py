@@ -1,11 +1,13 @@
 '''crie um programa que calcule a soma entre todos os numeros impares que sao multiplos de tres e que se encontram no intervalo de 1 até 500'''
 
 
-#minha resposta (nao consegui fazer)
-#for imp in range(1, 10, 2):
-#    if imp % 3 == 0:
-#        print(imp)
-
+#Minha resposta
+cont = soma = 0
+for i in range(1,500,2):
+    if i % 3 == 0:
+        cont += 1
+        soma += i
+print(f'A soma de todos os {cont} valores solicitados é {soma}')
 
 #respotsa Gustavo
 #soma = 0 # acumulador
