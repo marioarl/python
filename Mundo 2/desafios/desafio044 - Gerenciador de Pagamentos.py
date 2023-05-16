@@ -1,9 +1,9 @@
-#Elabore um programa que calcule o valor a ser pago por um produto, considerando o seu
-#preço normal e condicao de pagamento:
-# - á vista dinheiro/cheque: 10% de desconto
-# - á vista no cartao: 5% de desconto
-# - em até 2x no cartao: preço normal
-# - 3x ou mais no cartao: 20% de juros
+'''Elabore um programa que calcule o valor a ser pago por um produto, considerando o seu
+preço normal e condicao de pagamento:
+ - á vista dinheiro/cheque: 10% de desconto
+ - á vista no cartao: 5% de desconto
+ - em até 2x no cartao: preço normal
+ - 3x ou mais no cartao: 20% de juros'''
 
 #print('='*10, 'LOJAS GUANABARA', '='*10)
 #compra = float(input('Preço das compras: R$ '))
