@@ -5,11 +5,11 @@ for par in range(2, 51, 2):
     print(par, end=' ') #o comando end=' ' coloca as linhas horizontais em verticais
 print('Acabou')
 
-#resposta1 do Gustavo
-#for n in range(1, 51):
-#    if n % 2 == 0:
-#        print(n, end=' ')
-#print('Acabou')
+#Resposta1 do Gustavo
+for n in range(1, 51):
+    if n % 2 == 0:
+        print(n, end=' ')
+print('Acabou')
 
 #resposta2 do Gustavo
 #for n in range(2, 51, 2):
