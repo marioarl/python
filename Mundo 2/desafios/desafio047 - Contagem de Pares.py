@@ -11,7 +11,7 @@ for n in range(1, 51):
         print(n, end=' ')
 print('Acabou')
 
-#resposta2 do Gustavo
-#for n in range(2, 51, 2):
-#    print(n, end=' ')
-#print('Acabou')
+#Resposta2 do Gustavo
+for n in range(2, 51, 2):
+    print(n, end=' ')
+print('Acabou')
