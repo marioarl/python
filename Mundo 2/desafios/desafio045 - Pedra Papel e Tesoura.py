@@ -1,36 +1,38 @@
 #crie um programa que faca o computador jogar JOKENPO com voce.
-#import time
-#import random
-#print('''Suas opções:
-#[ 0 ] PEDRA
-#[ 1 ] PAPEL
-#[ 2 ] TESOURA''')
-#jogada = int(input('Qual é a sua jogada? '))
-#comp = random.choice([0, 1, 2])
-#lista = ('Pedra', 'Papel', 'Tesoura')
-#print('JO')
-#time.sleep(1)
-#print('KEN')
-#time.sleep(1)
-#print('PO!!!')
-#print('-='*20)
-#print('Computador jogou {}'.format(lista[comp]))
-#print('Jogador jogou {}'.format(lista[jogada]))
-#print('-='*20)
-#if jogada == comp:
-#    print('EMPATE')
-#elif jogada == 0 and comp == 1:
-#    print('COMPUTADOR VENCE')
-#elif jogada == 0 and comp == 2:
-#    print ('JOGADOR VENCE')
-#elif jogada == 1 and comp == 2:
-#    print('COMPUTADOR VENCE')
-#elif jogada == 1 and comp == 0:
-#    print('JOGADOR VENCE')
-#elif jogada == 2 and comp == 0:
-#    print('COMPUTADOR VENCE')
-#elif jogada == 2 and comp == 1:
-#    print('JOGADOR VENCE')
+
+#Minha Resposta
+import time
+import random
+print('''Suas opções:
+[ 0 ] PEDRA
+[ 1 ] PAPEL
+[ 2 ] TESOURA''')
+jogada = int(input('Qual é a sua jogada? '))
+comp = random.choice([0, 1, 2])
+lista = ('Pedra', 'Papel', 'Tesoura')
+print('JO')
+time.sleep(1)
+print('KEN')
+time.sleep(1)
+print('PO!!!')
+print('-='*20)
+print('Computador jogou {}'.format(lista[comp]))
+print('Jogador jogou {}'.format(lista[jogada]))
+print('-='*20)
+if jogada == comp:
+    print('EMPATE')
+elif jogada == 0 and comp == 1:
+    print('COMPUTADOR VENCE')
+elif jogada == 0 and comp == 2:
+    print ('JOGADOR VENCE')
+elif jogada == 1 and comp == 2:
+    print('COMPUTADOR VENCE')
+elif jogada == 1 and comp == 0:
+    print('JOGADOR VENCE')
+elif jogada == 2 and comp == 0:
+    print('COMPUTADOR VENCE')
+elif jogada == 2 and comp == 1:
+    print('JOGADOR VENCE')
 
 #resposta Gustavo
 from random import randint
