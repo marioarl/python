@@ -9,10 +9,10 @@ for c in range(10, -1, -1):
     time.sleep(1)
 print('BUM! BUM! POOOOW!')
 
-#resposta do Gustavo
-#from time import sleep
-#for cont in range(10, -1, -1):
-#    print(cont)
-#    sleep(0.5)
-#print('BUM! BUM! POOOOW!')
+#Resposta do Gustavo
+from time import sleep
+for cont in range(10, -1, -1):
+    print(cont)
+    sleep(0.5)
+print('BUM! BUM! POOOOW!')
 
