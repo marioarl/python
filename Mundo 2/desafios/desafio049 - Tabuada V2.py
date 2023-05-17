@@ -13,3 +13,7 @@ for c in range(1, 11):
     sleep(0.5)
 print('\033[34m-\033[m'*40)
 
+#REsposta do Gustavo
+num = int(input('Digite um numero para ver sua tabuada: '))
+for c in range(1,11):
+    print('{} x {:2} = {}'.format(num,c,num * c))
