@@ -1,5 +1,8 @@
-'''Refaça o DESAFIO09, mostrando a tabuada de um numero que o usuario escolher, so que agora utilizando um laço FOR'''
+'''
+Refaça o DESAFIO09, mostrando a tabuada de um numero que o usuario escolher, so que agora utilizando um laço FOR
+'''
 
+#Minha Resposta
 from time import sleep
 print('\033[34m-\033[m'*40,'\n\033[34m|\033[m', end=' ')
 print('\033[7;33m{:^48}'.format('TABUADA DOS NUMEROS         \033[m', '|'))
