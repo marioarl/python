@@ -1,5 +1,7 @@
-#Faça um programa que leia seis numeros inteiros e mostre a soma apenas daqueles que forem
-#pares. Se o valor digitado form impar, desconsidere-o
+'''
+Faça um programa que leia seis numeros inteiros e mostre a soma apenas daqueles que forem
+pares. Se o valor digitado form impar, desconsidere-o
+'''
 
 #minha resposta ( igual a do Gustavo)
 soma = 0
