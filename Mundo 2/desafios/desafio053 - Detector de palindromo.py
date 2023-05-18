@@ -8,11 +8,11 @@ ANOTARAM A DATA DA MARATONA
 frase = str(input('Digite uma frase: ')).strip().upper()
 separado = frase.split()
 junto = ''.join(separado)
-inverso = ''
+contrario = ''
 for c in range(len(all) - 1, -1, -1):
-    inverso += junto[c]
-print('O invesro de {} é {}'.format(junto, inverso))
-if inverso == junto:
+    contrario += junto[c]
+print('O invesro de {} é {}'.format(junto, contrario))
+if contrario == junto:
     print('Temos um palindomo!')
 else:
     print('A frase digitada não é um palindromo')
