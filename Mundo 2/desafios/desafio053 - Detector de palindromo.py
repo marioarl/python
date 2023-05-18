@@ -6,13 +6,13 @@ ANOTARAM A DATA DA MARATONA
 
 #Minha resposta
 frase = str(input('Digite uma frase: ')).strip().upper()
-div = frase.split()
-all = ''.join(div)
+separado = frase.split()
+junto = ''.join(separado)
 inverso = ''
 for c in range(len(all) - 1, -1, -1):
-    inverso += all[c]
-print('O invesro de {} é {}'.format(all, inverso))
-if inverso == all:
+    inverso += junto[c]
+print('O invesro de {} é {}'.format(junto, inverso))
+if inverso == junto:
     print('Temos um palindomo!')
 else:
     print('A frase digitada não é um palindromo')
