@@ -1,6 +1,6 @@
-#crie um programa que leia uma frase qualquer e diga se ela é um palindrono, desconsiderando
-#os espaçoes  EX: APOS A SOPA, A SACADA DA CASA, A TORRE DA DERROTA, O LOBO AMA O BOLO
-# ANOTARAM A DATA DA MARATONA
+'''crie um programa que leia uma frase qualquer e diga se ela é um palindrono, desconsiderando
+os espaçoes  EX: APOS A SOPA, A SACADA DA CASA, A TORRE DA DERROTA, O LOBO AMA O BOLO
+ANOTARAM A DATA DA MARATONA'''
 
 #minha resposta
 #frase = str(input('Digite uma frase: ')).strip().upper()
