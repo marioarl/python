@@ -1,6 +1,6 @@
 #Faça um programa que leia um numero inteiro e diga se ele é ou nao um numero primo
 
-#minha resposta igual do Gustavo
+#Minha resposta
 numero = int(input('Digite um Numero: '))
 tot = 0
 for num in range(1, numero + 1):
