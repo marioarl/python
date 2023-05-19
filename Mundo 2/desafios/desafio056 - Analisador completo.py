@@ -28,7 +28,7 @@ print(f"A média de idade do grupo é de {media} anos")
 print(f"O homem mais velho tem {homemMaisVelho} anos e se chama {nomeMaisVelho}")
 print(f"Ao todo são {mulherMenos20} mulheres com menos de 20 anos")
 
-#resposta Gustavo
+#Resposta Gustavo
 somaidade = 0
 mediaidade = 0
 maioridadehomem = 0
