@@ -1,5 +1,4 @@
-# faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor
-# peso lidos
+'''Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor peso lidos'''
 
 """minha resposta
 maior = menor = 0
