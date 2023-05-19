@@ -1,9 +1,12 @@
-'''crie um programa que leia o nome, idade e sexo de 4 pessoas. No final do prg mostre:
+'''
+Crie um programa que leia o nome, idade e sexo de 4 pessoas. No final do prg mostre:
  A media de idade do grupo
  Qual é o nome do homem mais velho
- Quantas mulheres tem menos de 21 anos'''
+ Quantas mulheres tem menos de 21 anos
+ 
+ '''
 
-"""minha resposta
+#minha resposta
 somaIdade = homemMaisVelho = mulherMenos20 = 0
 nomeMaisVelho = ""
 for p in range(1,5):
