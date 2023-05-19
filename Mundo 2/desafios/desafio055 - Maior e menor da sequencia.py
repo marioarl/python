@@ -14,7 +14,8 @@ for p in range(1,6):
 
 print(f"O maior peso lido foi de {maior:.1f}Kg")
 print(f"O menor peso lido foi de {menor:.1f}Kg")
-#resposta Gustavo
+
+#Resposta Gustavo
 maior = 0
 menor = 0
 for c in range(1, 6):
