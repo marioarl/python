@@ -6,7 +6,7 @@ Crie um programa que leia o nome, idade e sexo de 4 pessoas. No final do prg mos
  
  '''
 
-#minha resposta
+#Minha resposta
 somaIdade = homemMaisVelho = mulherMenos20 = 0
 nomeMaisVelho = ""
 for p in range(1,5):
@@ -26,7 +26,7 @@ for p in range(1,5):
 media = somaIdade / 4
 print(f"A média de idade do grupo é de {media} anos")
 print(f"O homem mais velho tem {homemMaisVelho} anos e se chama {nomeMaisVelho}")
-print(f"Ao todo são {mulherMenos20} mulheres com menos de 20 anos")"""
+print(f"Ao todo são {mulherMenos20} mulheres com menos de 20 anos")
 
 #resposta Gustavo
 somaidade = 0
