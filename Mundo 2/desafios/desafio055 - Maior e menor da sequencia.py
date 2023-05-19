@@ -1,6 +1,6 @@
 '''Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor peso lidos'''
 
-"""minha resposta
+#Minha resposta
 maior = menor = 0
 for p in range(1,6):
     peso = float(input(f"Peso da {p}a. pessoa: "))
@@ -13,8 +13,7 @@ for p in range(1,6):
             menor = peso
 
 print(f"O maior peso lido foi de {maior:.1f}Kg")
-print(f"O menor peso lido foi de {menor:.1f}Kg")"""
-
+print(f"O menor peso lido foi de {menor:.1f}Kg")
 #resposta Gustavo
 maior = 0
 menor = 0
