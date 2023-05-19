@@ -15,7 +15,7 @@ for a in range(1,8):
 print(f"Ao todo tivemos {maior} pessoas maiores de idade")
 print(f"E tambem tivemos {menor} pessoas menores de idade")
 
-#resposta Gustavo
+#Resposta Gustavo
 from datetime import date
 atual = date.today().year
 totmaior = 0
