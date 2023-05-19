@@ -1,6 +1,8 @@
-'''crie um programa que leia o ano de nascimento de sete pessoas. No final, mostre quantas pessoas
-ainda nao atingiram a maioridade e quantas ja sao maiores.'''
-"""minha resposta
+'''
+Crie um programa que leia o ano de nascimento de sete pessoas. No final, mostre quantas pessoas ainda nao atingiram a maioridade e quantas ja sao maiores.
+'''
+
+#Minha resposta
 from datetime import date
 maior = menor = 0
 for a in range(1,8):
@@ -12,7 +14,6 @@ for a in range(1,8):
         menor += 1
 print(f"Ao todo tivemos {maior} pessoas maiores de idade")
 print(f"E tambem tivemos {menor} pessoas menores de idade")
-"""
 
 #resposta Gustavo
 from datetime import date
