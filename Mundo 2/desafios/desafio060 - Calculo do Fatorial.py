@@ -16,7 +16,7 @@ n = int(input('Digite um número para calcular seu fatorail: '))
 f = factorial(n)
 print('O fatorial de {} é {}'.format(n, f))
 
-#resposta2 Gustavo
+#Resposta2 Gustavo
 n = int(input('Digite um numero para calcular seu fatorial: '))
 c = n
 f = 1
