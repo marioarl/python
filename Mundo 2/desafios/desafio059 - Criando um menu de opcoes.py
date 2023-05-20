@@ -49,7 +49,7 @@ print('Finalizando...')
 sleep(0.5)
 print('Obrigado por usar o programa!!!')
 
-#resposta do Gustavo
+#Resposta do Gustavo
 n1 = int(input('Primeiro numero: '))
 n2 = int(input('Segundo numero: '))
 opcao = 0
