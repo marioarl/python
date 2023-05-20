@@ -15,4 +15,4 @@ while cont <= 10:
     termo += razao
     cont += 1
 print('FIM')
-print(cont)
+
