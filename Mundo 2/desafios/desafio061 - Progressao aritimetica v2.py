@@ -1,6 +1,7 @@
-#refaça o DESAFIO051, lendo o primeiro termo de uma PA, mostrando os 10 primeiros termos
-# da progressao usando a estrutura WHILE
-#sem utilizar a formula da PA
+'''
+Refaça o DESAFIO051, lendo o primeiro termo de uma PA, mostrando os 10 primeiros termos
+da progressao usando a estrutura WHILE sem utilizar a formula da PA'''
+
 print('='*40)
 print('{:^40}'.format('10 TERMOS DE UMA PA'))
 print('='*40)
