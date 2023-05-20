@@ -1,5 +1,7 @@
-'''Faça um programa que leia um numero qualquqer e mostre seu fatorial
-EX: 5!=5X4X3X2X1 = 120'''
+'''
+Faça um programa que leia um numero qualquqer e mostre seu fatorial
+EX: 5!=5X4X3X2X1 = 120
+'''
 print('Digite um numero para')
 num = int(input('calcular seu fatorial: '))
 fat2 = 0
