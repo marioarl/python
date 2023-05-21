@@ -1,6 +1,7 @@
 '''Melhore o desafio 061, perguntando para o usuario se ele quer mostrar mais alguns termos.
 O programa encerra quando ele disser que quer mostrar 0(zero) termos.'''
 
+#Minha resposta
 print('='*40)
 print('{:^40}'.format('10 TERMOS DE UMA PA'))
 print('='*40)
