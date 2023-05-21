@@ -3,8 +3,7 @@ Crie um programa que leia varios numeros inteiros pelo teclado. O programa só v
 e qual foi a soma entre eles, desconsiderando o 999.
 '''
 
-""""
-Minha resposta
+#Minha resposta
 cont = soma = 0
 num = int(input("Digite um numero [999 para parar]: "))
 while num != 999:
@@ -12,8 +11,6 @@ while num != 999:
     soma += num
     num = int(input("Digite um numero [999 para parar]: "))
 print(f"Voce digitou {cont} numeros e a soma entre eles foi {soma}")
-
-"""
 
 #Resposta do Gustavo
 num = cont = soma =0
