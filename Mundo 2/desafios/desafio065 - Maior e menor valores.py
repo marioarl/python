@@ -5,7 +5,6 @@ usuario se ele quer ou nao continuar a digitar
 '''
 
 #minha resposta
-""""
 cont = soma = maior = menor = 0
 opc = "S"
 while opc in "S":
@@ -23,7 +22,6 @@ while opc in "S":
 media = soma / cont
 print(f"Voce digitou {cont} numeros e a média foi {media}")
 print(f"O maior valor foi {maior} e o menor foi {menor}")
-"""
 
 
 #resposta do Gustavo
