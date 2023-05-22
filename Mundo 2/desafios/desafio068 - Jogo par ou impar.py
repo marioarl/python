@@ -6,7 +6,6 @@ jogador PERDER, mostrando o total de vitorias consecutivas que ele conquistou no
 from random import randint
 
 #minha resposta
-""""
 from random import randint
 v = 0
 print("-="*20)
@@ -42,7 +41,6 @@ while True:
             print("Voce PERDEU")
             break
 print(f"GAME OVER! Voce venceu {v} vezes.")
-"""
 
 #resposta do Gustavo
 v = 0
