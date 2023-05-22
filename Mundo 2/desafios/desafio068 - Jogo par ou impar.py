@@ -3,8 +3,6 @@ Faça um programa que jogue par ou impar com o computador. O jogo será interrom
 jogador PERDER, mostrando o total de vitorias consecutivas que ele conquistou no final do jogo
 '''
 
-from random import randint
-
 #minha resposta
 from random import randint
 v = 0
