@@ -4,7 +4,7 @@ cedulas de cada valor serao entregues.
 OBS: Considere que o caixa possui cedulas de R$50 R$20 R$10 e R$1'''
 
 #Minha resposta
-"""print("="*40)
+print("="*40)
 print("BANCO ASPA".center(40))
 print("="*40)
 valor = float(input("Qual o valor voce quer sacar? R$"))
@@ -31,8 +31,7 @@ while True:
         if total == 0:
             break
 print('='*40)
-print('FIM DA OPERAÇÃO')"""    
-
+print('FIM DA OPERAÇÃO') 
 
 #resposta do Gustavo
 print('='*30)
