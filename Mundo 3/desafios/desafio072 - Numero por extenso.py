@@ -1,6 +1,8 @@
-'''Crie um programa que tenha uma TUPLA totalmemte preenchida com uma contagem por extenso, de
+'''
+Crie um programa que tenha uma TUPLA totalmemte preenchida com uma contagem por extenso, de
 zero até vinte.
-Seu programa deverá ler um numero pelo teclado (entre 0 e 20) e mostra-lo por extenso'''
+Seu programa deverá ler um numero pelo teclado (entre 0 e 20) e mostra-lo por extenso
+'''
 
 #minha resposta
 extenso = ('Zero', 'Um', 'Dois', 'Tres', 'Quatro', 'Cinco', 'Seis', 'Sete', 'Oito', 'Nove', 'Dez',
