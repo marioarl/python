@@ -1,9 +1,9 @@
-#crie uma TUPLA preenchida com os 20 primeiros colocados da tabela do campeonato Brasileiro de
-#futebol, na ordem de colocacao. Depois mostre:
-#A) apenas os 5 primeiros colocados
-#B) Os ultimos 4 colocados da tabela.
-#C) Uma lista com os times em ordem alfabetica
-#D) Em que posicao na tabela está o time da Chapecoense
+'''Crie uma TUPLA preenchida com os 20 primeiros colocados da tabela do campeonato Brasileiro de
+futebol, na ordem de colocacao. Depois mostre:
+A) apenas os 5 primeiros colocados
+B) Os ultimos 4 colocados da tabela.
+C) Uma lista com os times em ordem alfabetica
+D) Em que posicao na tabela está o time da Chapecoense'''
 
 #minha resposta
 times = ('Corinthians', 'Palmeiras', 'Santos', 'Gremio', 'Cruzeiro', 'Flamengo', 'Vasco', 'Chapecoense',
