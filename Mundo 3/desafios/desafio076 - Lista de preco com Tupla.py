@@ -1,5 +1,8 @@
-'''crie um programa que tenha uma unica TUPLA com nomes de produtos e seus respectivos precos na sequencia.
-No final mostre uma listagem de precos organizando os dados em forma tabular'''
+'''
+Crie um programa que tenha uma unica TUPLA com nomes de produtos e seus respectivos precos na sequencia.
+No final mostre uma listagem de precos organizando os dados em forma tabular
+'''
+
 #minha resposta
 print('-'*40)
 print(f'{"LISTAGEM DE PRECOS":^40}')
