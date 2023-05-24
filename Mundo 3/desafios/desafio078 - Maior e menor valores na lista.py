@@ -1,6 +1,9 @@
-'''faca um programa que leia 5 valores numericos e guarde-os em uma lista
-No final mostre qual foi o maior e o menor valor digitados e suas respectivas posicoes na lista'''
-#minha resposta
+'''
+Faca um programa que leia 5 valores numericos e guarde-os em uma lista
+No final mostre qual foi o maior e o menor valor digitados e suas respectivas posicoes na lista
+'''
+
+#Minha resposta
 """num = []
 maior = menor = 0
 for c in range(0, 5):
