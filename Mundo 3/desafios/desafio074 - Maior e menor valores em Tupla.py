@@ -1,6 +1,6 @@
-#Crie um programa que vai gerar cinco numeros aleatorios e colocar em uma TUPLA.
-#Depois disso, mostre a listagem de numeros gerados e tambem indique o menor valor e o maior valor que
-#estao na TUPLA
+'''Crie um programa que vai gerar cinco numeros aleatorios e colocar em uma TUPLA.
+Depois disso, mostre a listagem de numeros gerados e tambem indique o menor valor e o maior valor que
+estao na TUPLA'''
 
 #minha resposta
 from random import randint
