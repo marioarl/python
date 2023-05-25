@@ -1,4 +1,5 @@
-'''crie um programa onde o usuario possa digitar cinco valores numericos e cadastre-os em uma
+'''
+Crie um programa onde o usuario possa digitar cinco valores numericos e cadastre-os em uma
 lista, já na posicao correta de insercao(sem usar o SORT())
 No final, mostre a lista ordenada na tela
 '''
