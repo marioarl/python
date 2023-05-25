@@ -14,7 +14,7 @@ while True:
     if len(pessoas) == 0:
         mai = men = dados[1]
     else:
-        if dados[1] > mai:
+        if dados[1] > mai: 
             mai = dados[1]
         if dados[1] < men:
             men = dados[1]
