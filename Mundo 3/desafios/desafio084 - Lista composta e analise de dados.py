@@ -4,6 +4,37 @@ A)Quantas pessoas foram cadastradas.
 B)Uma listagem com as pessoas mais pesadas
 C)Uma listagem com as pessoas mais leves
 '''
+#Minha Resposta
+pessoas = []
+unico = []
+maior=menor=0
+while True:
+    unico.append(str(input('Nome: ')))
+    unico.append(float(input('Peso: ')))
+    if len(pessoas) == 0:
+        maior = menor = unico[1]
+    else:
+        if unico[1] > maior:
+            maior = unico[1]
+        if unico[1] < menor:
+            menor = unico[1]
+    opc = str(input('Continua? [S/N] ')).strip().upper()
+    pessoas.append(unico[:])
+    unico.clear()
+    if opc == "N":
+        break
+
+print(f'Ao todo, voce cadastrou {len(pessoas)} pessoas')
+print(f'O maior peso foi de {maior:.1f}Kg. Peso de ', end="")
+for p in pessoas:
+    if p[1] == maior:
+        print(f'[{p[0]}]', end="")
+print(f'\nO menor peso foi de {menor:.1f}Kg. Peso de ', end="")
+for p in pessoas:
+    if p[1] == menor:
+        print(f'[{p[0]}]', end="")
+print()
+
 
 dados = list()
 pessoas = list()
