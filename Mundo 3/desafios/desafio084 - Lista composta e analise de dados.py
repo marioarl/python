@@ -35,7 +35,7 @@ for p in pessoas:
         print(f'[{p[0]}]', end="")
 print()
 
-
+#Resposta do Gustavo
 dados = list()
 pessoas = list()
 mai = men = 0
