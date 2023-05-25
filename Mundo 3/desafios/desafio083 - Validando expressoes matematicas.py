@@ -1,6 +1,8 @@
-#crie um programa onde o usuario digite uma expressao matematica qualquer que use parenteses.
-#Seu programa devera analisar se a expressao passada esta com os parenteses abertos e fechados
-#na ordem correta
+'''
+Crie um programa onde o usuario digite uma expressao matematica qualquer que use parenteses.
+Seu programa devera analisar se a expressao passada esta com os parenteses abertos e fechados na ordem correta
+
+'''
 
 #resposta do Gustavo
 expr = str(input('Digite a expressao: '))
