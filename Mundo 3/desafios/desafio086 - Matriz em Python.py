@@ -1,4 +1,5 @@
-'''Crie um programa que crie uma matriz de dimensao 3x3 e preencha com valores lidos pelo teclado.
+'''
+Crie um programa que crie uma matriz de dimensao 3x3 e preencha com valores lidos pelo teclado.
    ___________________    No final mostre a matriz na tela, com a formatacao correta
   0|     |     |     |
    |_____|_____|_____|
