@@ -1,7 +1,9 @@
-'''aprimore o desafio086 mostrando no final:
+'''
+Aprimore o desafio086 mostrando no final:
 A) A soma de todos os valores pares digitados:
 B) A soma dos valores da terceira coluna
-C) O maior valor da segunda linha'''
+C) O maior valor da segunda linha
+'''
 
 #minha resposta
 matriz = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
