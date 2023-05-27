@@ -1,5 +1,6 @@
-#crie um programa onde o usuario possa digitar 7 valores numericos e cadastre-os em uma lista unica que
-#mantenha separados os valores PARES e IMPARES. No final, mostre os valores pares e impares em ordem crescente
+'''crie um programa onde o usuario possa digitar 7 valores numericos e cadastre-os em uma lista unica que
+mantenha separados os valores PARES e IMPARES. No final, mostre os valores pares e impares em ordem crescente'''
+
 #minha resposta
 numeros = list()
 pares = list()
