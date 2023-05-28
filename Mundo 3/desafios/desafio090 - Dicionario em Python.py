@@ -1,5 +1,5 @@
-# Faca um programa que leia nome e média de um aluno, guardando também a situacao (se 7 ou mais aprovado)
-# em um dicionario. No final mostre o conteudo da estrutura na tela.
+'''Faca um programa que leia nome e média de um aluno, guardando também a situacao (se 7 ou mais aprovado)
+em um dicionario. No final mostre o conteudo da estrutura na tela.'''
 
 # minha resposta
 boletim = dict()
