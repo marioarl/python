@@ -3,6 +3,7 @@ Crie um programa que leia nome e duas notas de varios alunos e guarde tudo em um
 mostre um boletim contendo a média de cada um e permita que o usuario possa mostrar as notas de cada aluno
 individualmente
 '''
+#Minha resposta
 ficha = list ()
 while True:
     nome = str(input('Nome: '))
