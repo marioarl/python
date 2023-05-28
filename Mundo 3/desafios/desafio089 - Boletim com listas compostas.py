@@ -1,6 +1,8 @@
-'''crie um programa que leia nome e duas notas de varios alunos e guarde tudo em uma lista composta. No final
+'''
+Crie um programa que leia nome e duas notas de varios alunos e guarde tudo em uma lista composta. No final
 mostre um boletim contendo a média de cada um e permita que o usuario possa mostrar as notas de cada aluno
-individualmente'''
+individualmente
+'''
 ficha = list ()
 while True:
     nome = str(input('Nome: '))
