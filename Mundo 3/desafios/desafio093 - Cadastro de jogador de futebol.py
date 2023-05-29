@@ -5,7 +5,7 @@ tudo isso será guardado em um dicionario, incluindo o total de gols feitos dura
 '''
 
 #minha resposta
-def lin30(): #definicao da linha de separacao 
+def lin30(): #funcao da linha de separacao 
     print('-='*30)
 
 
