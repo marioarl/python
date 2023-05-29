@@ -6,11 +6,11 @@ Calclue e acrescente, alem da idade, com quantos anos a pessoa vai se aposentar.
 
 #minha resposta
 from datetime import date
-hoje = date.today().year
+atual = date.today().year
 ficha = dict()
 ficha['nome'] = str(input('Nome: ').strip())
 ano = int(input('Ano de nascimento: '))
-ficha['idade'] = hoje - ano
+ficha['idade'] = atual - ano
 ficha['ctps'] = int(input('Carteira de trabalho (0 não tem): '))
 if ficha['ctps'] != 0:
     ficha['contratacao'] = int(input('Ano de contratacao: '))
