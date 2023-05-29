@@ -1,6 +1,7 @@
-#Crie um programa que gerencie o aproveitamento de um jogador de futebol. O programa vai ler o nome do
-#jogador e quantas partidas ele jogou. Depois vai ler a quantidade de gols feitos em cada partida. No final,
-#tudo isso será guardado em um dicionario, incluindo o total de gols feitos durante o campeonato
+'''Crie um programa que gerencie o aproveitamento de um jogador de futebol. O programa vai ler o nome do
+jogador e quantas partidas ele jogou. Depois vai ler a quantidade de gols feitos em cada partida. No final,
+tudo isso será guardado em um dicionario, incluindo o total de gols feitos durante o campeonato'''
+
 #minha resposta
 def lin30(): #definicao da linha de separacao 
     print('-='*30)
