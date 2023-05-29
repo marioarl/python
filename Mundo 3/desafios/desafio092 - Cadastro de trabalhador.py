@@ -1,6 +1,8 @@
-'''Crie um programa que leia nome, ano de nascimento e carteira de trabalhoe cadastre-os (com idade) em um
+'''
+Crie um programa que leia nome, ano de nascimento e carteira de trabalhoe cadastre-os (com idade) em um
 dicionario se por acaso a CTPS for diferente de zero, o dicionario receberá tambem o ano de contratacao e o salario
-Calclue e acrescente, alem da idade, com quantos anos a pessoa vai se aposentar.'''
+Calclue e acrescente, alem da idade, com quantos anos a pessoa vai se aposentar.
+'''
 
 #minha resposta
 from datetime import date
