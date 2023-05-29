@@ -3,6 +3,7 @@ Crie um programa onde 4 jogadores joguem um dado e tenham resultados aleatorios.
 em um dicionario. No final, coloque esse dicionario em ordem, sabendo que o vencedor tirou o maior numero
 minha resposta
 '''
+#Minha resposta
 from random import randint
 from time import sleep
 from operator import itemgetter #para colocar um dicionario em ordem temos que importar ITEMGETTER p func. com o SORTED
