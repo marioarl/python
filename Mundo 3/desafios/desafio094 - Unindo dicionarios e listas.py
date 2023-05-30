@@ -1,5 +1,5 @@
-'''Crie um prg que leia nome, sexo e idade de varias pessoas, guardando os dados de cada pessoa em um
-dicionario e todos os dicionarios em uma lista. No final, mostre:
+'''
+Crie um prg que leia nome, sexo e idade de varias pessoas, guardando os dados de cada pessoa em um dicionario e todos os dicionarios em uma lista. No final, mostre:
 A)Quantas pessoas foram cadastradas
 B)A média de idade do grupo
 C)Uma lista com todas as mulheres.
