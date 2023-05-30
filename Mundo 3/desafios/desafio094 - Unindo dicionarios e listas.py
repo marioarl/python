@@ -6,6 +6,7 @@ C)Uma lista com todas as mulheres.
 D)Uma lista com todas as pessoas com idade acima da média
 '''
 
+#Resposta do Gustavo
 galera = list()
 pessoa = dict()
 soma = media = 0
