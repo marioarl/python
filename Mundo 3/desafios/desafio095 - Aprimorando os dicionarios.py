@@ -1,5 +1,7 @@
-'''Aprimore o desafio093 para que ele funcione com varios jogadores, incluindo um sistema de visualizacao
-de detalhes do aproveitamento de cada jogador.'''
+'''
+Aprimore o desafio093 para que ele funcione com varios jogadores, incluindo um sistema de visualizacao
+de detalhes do aproveitamento de cada jogador.
+'''
 time = list()
 jogador = dict()
 partidas = list()
