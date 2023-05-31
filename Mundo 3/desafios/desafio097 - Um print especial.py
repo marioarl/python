@@ -1,10 +1,10 @@
-#crie um programa que tenha a funcao chamada escreva(), que receba um texto qualquer como parametro e mostre
-# uma mensagem com tamanho adaptavel.
-#Ex. escreva('Ola Mundo!')
-# Saida  ˜˜˜˜˜˜˜˜˜˜
-#        Olá Mundo!
-#        ˜˜˜˜˜˜˜˜˜
-
+'''Crie um programa que tenha a funcao chamada escreva(), que receba um texto qualquer como parametro e mostre
+uma mensagem com tamanho adaptavel.
+Ex. escreva('Ola Mundo!')
+ Saida  ˜˜˜˜˜˜˜˜˜˜
+        Olá Mundo!
+        ˜˜˜˜˜˜˜˜˜
+'''
 #minha resposta
 def escreva(msg):
     print('~' * (len(msg) + 4))  # pra ficar com 2 ~ na esquerda e 2 ~ na direita sobrando
