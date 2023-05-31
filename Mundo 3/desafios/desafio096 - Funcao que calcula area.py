@@ -1,6 +1,7 @@
 '''
 Crie um programa que tenha uma funcao chamada area(), que receba as dimensoes de um terreno retangular
-(largura e comprimento) e mostre a area do terreno'''
+(largura e comprimento) e mostre a area do terreno
+'''
 
 #minha resposta
 #def area(larg, c):
