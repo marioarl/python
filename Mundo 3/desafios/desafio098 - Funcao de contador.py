@@ -1,6 +1,6 @@
-#faca um prg que tenha uma funcao chamada contador(), que receba 3 parametros: inicio, fim e passo e realize
-# a contagem. Seu programa tem que realizar 3 contagens atraves da funcao criada:
-#a) de 1 ate 10. de 1 em 1  b) de 10 até 0, de 2 em 2   c) uma contagem peersonalizada
+'''Faça um prg que tenha uma funcao chamada contador(), que receba 3 parametros: inicio, fim e passo e realize
+a contagem. Seu programa tem que realizar 3 contagens atraves da funcao criada:
+a) de 1 ate 10. de 1 em 1  b) de 10 até 0, de 2 em 2   c) uma contagem peersonalizada'''
 from time import sleep
 
 def contador(i, f, p):
