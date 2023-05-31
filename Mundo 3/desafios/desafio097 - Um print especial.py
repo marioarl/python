@@ -1,4 +1,5 @@
-'''Crie um programa que tenha a funcao chamada escreva(), que receba um texto qualquer como parametro e mostre
+'''
+Crie um programa que tenha a funcao chamada escreva(), que receba um texto qualquer como parametro e mostre
 uma mensagem com tamanho adaptavel.
 Ex. escreva('Ola Mundo!')
  Saida  ˜˜˜˜˜˜˜˜˜˜
