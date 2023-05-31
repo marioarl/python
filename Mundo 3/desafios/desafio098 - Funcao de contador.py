@@ -5,6 +5,8 @@ a) de 1 ate 10. de 1 em 1  b) de 10 até 0, de 2 em 2   c) uma contagem peersona
 '''
 from time import sleep
 
+
+#Resposta do Gustavo
 def contador(i, f, p):
     if p < 0:
         p *= -1
