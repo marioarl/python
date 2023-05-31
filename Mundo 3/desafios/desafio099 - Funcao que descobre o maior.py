@@ -1,6 +1,7 @@
-'''crie um prg que tenha a funcao chamada maio(), que receba varios parametros com valores inteiros. Seu
-programa tem que analisar todos os valores e dizer qual deles é o maior'''
-
+'''
+Crie um prg que tenha a funcao chamada maio(), que receba varios parametros com valores inteiros. Seu
+programa tem que analisar todos os valores e dizer qual deles é o maior
+'''
 #minha resposta
 #from time import sleep
 
