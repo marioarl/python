@@ -20,8 +20,6 @@ def somaPar(lista): #3a. criar a funcao somaPar() recebendo a lista e coloca-la 
             soma += valor
     print(f'Somando os valore PARES de {lista}, temos {soma}')#13o. Mostrar a lista e a soma dos PARES
 
-
-
 #Programa Principal
 numeros = list() #1a. criar uma lista vazia de numeros
 sorteia(numeros) #4a. chamar a funcao sorteia
