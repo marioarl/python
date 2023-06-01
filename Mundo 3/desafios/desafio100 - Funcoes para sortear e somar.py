@@ -2,6 +2,7 @@
 Crie um programa que tenha uma lista chamada numeros e duas funcoes chamadas sorteia() e somaPar(). A primeira funcao vai sortear 5 numeros e vai coloca-los dentro de uma lista e a segunda funcao vai mostrar a soma entre todos os valores PARES sorteados pela funcao anterior.
 '''
 
+#REsposta do Gustavo
 from random import randint
 from time import sleep
 
