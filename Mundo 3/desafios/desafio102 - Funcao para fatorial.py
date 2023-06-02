@@ -1,6 +1,8 @@
-'''Crie um programa que tenha a funcao fatorial() que receba dois parametros: o primeiro que indique o
+'''
+Crie um programa que tenha a funcao fatorial() que receba dois parametros: o primeiro que indique o
 numero a calcular e o outro chamado show, que será uma valor logico(opcional) indicando se será mostrado
-ou nao na tela o processo de calculo do fatorial'''
+ou nao na tela o processo de calculo do fatorial
+'''
 
 def fatorial(n, show=False):
     """
