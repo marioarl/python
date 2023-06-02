@@ -1,5 +1,5 @@
-# Crie um programa que tenha a funçao leiaint(), que vai funcionar de forma semelhante a funcao input(),
-# só que fazendo a validacao para aceitar apenas um valor numerico.
+'''Crie um programa que tenha a funçao leiaint(), que vai funcionar de forma semelhante a funcao input(),só que fazendo a validacao para aceitar apenas um valor numerico.'''
+
 def leiaint(msg):
     ok = False
     valor = 0
