@@ -1,4 +1,6 @@
-'''Faca um programa que tenha função chamada ficha(), que receba dois parametros opcionais> o nome do jogador e quantos gols marcou. O programa deverá ser capaz de mostrar a ficha do jogador, mesmo que algum dado nao tenha sido informado corretamente.'''
+'''
+Faca um programa que tenha função chamada ficha(), que receba dois parametros opcionais> o nome do jogador e quantos gols marcou. O programa deverá ser capaz de mostrar a ficha do jogador, mesmo que algum dado nao tenha sido informado corretamente.
+'''
 
 def ficha(a='<desconhecido>', b=0):
     print(f'O jogador {a} fez {b} gol(s) no campeonato.')
