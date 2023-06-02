@@ -1,7 +1,6 @@
-#Crie um programa qye tenha funçao notas() que pode receber varias notas de alunos e vao retornar um
-# dicionario com as informaçoes:
-#- Quantidade de notas / a maior nota / a media da turma / a situacao (opcional)
-#Adicione tambem as docstrings da funcao
+'''Crie um programa qye tenha funçao notas() que pode receber varias notas de alunos e vao retornar um dicionario com as informaçoes:
+- Quantidade de notas / a maior nota / a media da turma / a situacao (opcional)
+Adicione tambem as docstrings da funcao'''
 def notas(*n, sit=False):
     r = dict()
     r['total'] = len(n)
