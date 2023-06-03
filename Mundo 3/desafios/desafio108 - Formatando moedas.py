@@ -1,5 +1,7 @@
-#Adapte o codigo do desafio107, criando uma funcao adicional chamada moeda() que consiga mostrar os
-# valores como um valor monetario formatado
+'''
+Adapte o codigo do desafio107, criando uma funcao adicional chamada moeda() que consiga mostrar os
+valores como um valor monetario formatado
+'''
 
 from ex108 import moeda
 p = float(input('Digite o preço: R$ '))
