@@ -1,6 +1,5 @@
 '''
-Modifique as funcoes que foram criadas no desafio107 para que elas aceitem um parametro a mais,
-informando se o valor retornado por elas vai ser ou nao formatado pela funcao moeda(), desenvolvida no
+Modifique as funcoes que foram criadas no desafio107 para que elas aceitem um parametro a mais,informando se o valor retornado por elas vai ser ou nao formatado pela funcao moeda(), desenvolvida no
 desafio108'''
 from ex109 import moeda
 p = float(input('Digite o preço: R$ '))
