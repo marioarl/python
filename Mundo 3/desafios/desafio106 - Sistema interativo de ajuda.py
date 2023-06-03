@@ -1,5 +1,8 @@
-#Crie um mini-sistema que utilize o interactive Help do Python. O usuario vai digitar o comando e o manual
-#vai aparecer. Qunado o usuario digitar FIM, o programa se encerrará. OBS: Use cores
+'''
+Crie um mini-sistema que utilize o interactive Help do Python. O usuario vai digitar o comando e o manual
+vai aparecer. Qunado o usuario digitar FIM, o programa se encerrará. OBS: Use cores
+'''
+
 from time import sleep
 c = ('\033[m',          # 0 - sem cores
      '\033[0;30;41m',   # 1 - vermelho
