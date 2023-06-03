@@ -1,6 +1,7 @@
 '''
 Crie um modulo chamado moeda.py que tenha as funcoes incorporadas aumentar(), diminuir, dobro(), metade()
-Faca tambem um programa que importe esse modulo e use algumas dessas funcoes'''
+Faca tambem um programa que importe esse modulo e use algumas dessas funcoes
+'''
 
 from ex107 import moeda
 p = float(input('Digite o preço: R$'))
