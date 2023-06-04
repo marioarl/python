@@ -1,5 +1,8 @@
-# Reescreva a funcao leiaint() que fizemos no desafio104, incluindo agora a possibilidade da digitacao
-# de um numero de tipo invalido. Aproveite e crie uma funcao leiafloat() com a mesma funcionalidade
+'''
+Reescreva a funcao leiaint() que fizemos no desafio104, incluindo agora a possibilidade da digitacao
+de um numero de tipo invalido. Aproveite e crie uma funcao leiafloat() com a mesma funcionalidade
+'''
+
 def leiaInt(msg):
     while True:
         try:
