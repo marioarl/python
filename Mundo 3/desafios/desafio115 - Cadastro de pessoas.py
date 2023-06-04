@@ -1,6 +1,6 @@
-#Crie um pequeno sistema modularizado que permita cadastrar pessoas pelo seu nome e idade em um arquivo
-# de texto simples. O sistema só vai ter 2 opcoes: cadastrar uma nova pessoa e listar todas as pessoas
-#cadastradas
+'''Crie um pequeno sistema modularizado que permita cadastrar pessoas pelo seu nome e idade em um arquivo
+de texto simples. O sistema só vai ter 2 opcoes: cadastrar uma nova pessoa e listar todas as pessoas
+cadastradas'''
 from ex115.lib.interface import *
 from ex115.lib.arquivo import *
 from time import sleep
