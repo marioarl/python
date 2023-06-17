@@ -9,12 +9,13 @@ cato = float(input('Comprimento do cateto oposto: '))
 cata = float(input('Comprimento do cateto adjacente: '))
 hyp = math.hypot(cato, cata)
 print ('A hipotenusa vai medir {:.2f}'.format(hyp))
+
 #minha resposta 2
-'''from math import hypot
+from math import hypot
 cato = float(input('Comprimento do cateto oposto: '))
 cata = float(input('Comprimento do cateto adjacente: '))
 hyp = hypot(cato, cata)
-print('A hipotenusa vai medir {:.2f}'.format(hyp))'''
+print('A hipotenusa vai medir {:.2f}'.format(hyp))
 
 #minha resposta 3, sem importar a biblioteca math
 cato = float(input('Comprimento do cateto oposto: '))
