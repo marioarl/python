@@ -4,12 +4,11 @@ triangulo retangulo, calcule e mostre o comprimento da hipotenusa
 '''
 
 #minha resposta 1
-''''import math
+import math
 cato = float(input('Comprimento do cateto oposto: '))
 cata = float(input('Comprimento do cateto adjacente: '))
 hyp = math.hypot(cato, cata)
 print ('A hipotenusa vai medir {:.2f}'.format(hyp))
-'''
 #minha resposta 2
 '''from math import hypot
 cato = float(input('Comprimento do cateto oposto: '))
