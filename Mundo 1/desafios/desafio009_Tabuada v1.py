@@ -1,4 +1,4 @@
-# faça um programa que leia um numero inteiro qualquer e mostre na tela a sua tabuada
+# Faça um programa que leia um numero inteiro qualquer e mostre na tela a sua tabuada
 
 #minha resposta
 print('', '\033[1;34m-'*40, '\n', '|', '\033[7;33m          TABUADA DOS NUMEROS        \033[m\033[1;34m|')
