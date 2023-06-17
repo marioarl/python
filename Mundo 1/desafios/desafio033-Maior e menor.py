@@ -19,7 +19,7 @@ if n3 > n1 and n3 > n2:
     maior = n3
 print('O maior valor digitado foi {}'.format(maior))
 
-#resposta do Gustavo
+#Resposta do Gustavo
 a = int(input('Primeiro valor: '))
 b = int(input('Segundo valor:'))
 c = int(input('terceiro valor:'))
