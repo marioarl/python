@@ -7,7 +7,7 @@ if numero % 2 == 0:
 else:
     print('O numero {} é IMPAR'.format(numero))
 
-#resposta do Gustavo
+#Resposta do Gustavo
 numero = int(input('Me diga um numero qualquer: '))
 resultado = numero % 2
 if resultado == 0:
