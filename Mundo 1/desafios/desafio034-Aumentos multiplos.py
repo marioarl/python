@@ -12,7 +12,7 @@ else:
     aumento = salario + (salario * 0.15)
 print ('Quem ganhava {:.2f} passa a ganhar R${:.2f} agora'.format(salario, aumento))
 
-#resposta do Gustavo
+#Resposta do Gustavo
 salario = float(input('Qual é o salário do funcionario? R$ '))
 if salario <= 1250:
     novo = salario +(salario * 15 / 100)
