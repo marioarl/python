@@ -16,7 +16,7 @@ elif num1 < num2:
 elif num1 == num2:
     print('Os dois valores são IGUAIS')
 
-#resposta do Gustavo
+#Resposta do Gustavo
 n1 = int(input('Primeiro numero: '))
 n2 = int(input('Segundo numero: '))
 if n1 > n2:
