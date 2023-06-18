@@ -22,7 +22,7 @@ elif idade > 18:
 elif idade == 18:
     (print('Voce tem que se alistar IMEDIATAMENTE!!!'))
 
-#resposta do Gustavo
+#Resposta do Gustavo
 from datetime import date
 atual = date.today().year
 nasc = int(input('Ano de nascimento: '))
