@@ -27,7 +27,7 @@ if opcao == 4:
 else:
     print('\033[7;31mOPCAO INVÁLIDA.\033[m Tente novamente')
 
-#resposta Gustavo
+#Resposta Gustavo
 print('{:=^40}'.format('LOJAS GUANABARA'))
 preco = float(input('Preço das compras: R$ '))
 print(''' FORMAS DE PAGAMENTO
