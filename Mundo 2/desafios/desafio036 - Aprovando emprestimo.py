@@ -16,7 +16,7 @@ if prest <= (salario * 30 / 100):
 else:
     print('Empréstimo NEGADO!')
 
-#resposta do Gustavo
+#Resposta do Gustavo
 casa = float(input('Valor da casa: R$'))
 salario = float(input('Salário do comprador: R$'))
 anos = int(input('Quantos anos de financiamento? '))
