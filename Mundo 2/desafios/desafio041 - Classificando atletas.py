@@ -24,7 +24,7 @@ elif idade >19 and idade <= 25:
 elif idade > 25:
     print('Classificação: MASTER')
 
-#resposta do Gustavo
+#Resposta do Gustavo
 from datetime import date
 atual = date.today().year
 nascimento = int(input('Ano de nascimento: '))
