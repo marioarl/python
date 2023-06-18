@@ -34,7 +34,7 @@ elif jogada == 2 and comp == 0:
 elif jogada == 2 and comp == 1:
     print('JOGADOR VENCE')
 
-#resposta Gustavo
+#Resposta Gustavo
 from random import randint
 itens = ('Pedra', 'Papel', 'Tesoura')
 computador = randint(0, 2)
