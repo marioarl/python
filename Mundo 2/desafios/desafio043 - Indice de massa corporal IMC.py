@@ -23,7 +23,7 @@ elif imc <= 40:
 elif imc > 40:
     print('Voce está em OBESIDADE MORBIDA, CUIDADO!')
 
-#resposta do Gustavo
+#Resposta do Gustavo
 peso = float(input('Qual é o seu peso? (Kg) '))
 altura = float(input('Qual é a sua altura? (m) '))
 imc = peso / (altura ** 2)
