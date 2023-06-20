@@ -10,7 +10,7 @@ for c in range(1, num, -1):
     fat = num * c
     print('Calculando {}! = {} X {}'.format(num, num, c))
 
-#Resposta1 Gustavo(com modulo math
+#Resposta1 Gustavo(com modulo math 
 from math import factorial
 n = int(input('Digite um número para calcular seu fatorail: '))
 f = factorial(n)
