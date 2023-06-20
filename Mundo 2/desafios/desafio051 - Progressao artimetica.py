@@ -14,7 +14,7 @@ for m in range(termo, an + 1 , razao):
     print('{} ->'.format(m), end=' ')
 print('ACABOU')
 
-#resposta gustavo
+#Resposta gustavo
 primeiro = int(input('Primeiro termo: '))
 razao = int(input('Razão: '))
 decimo = primeiro + (10 -1) * razao
