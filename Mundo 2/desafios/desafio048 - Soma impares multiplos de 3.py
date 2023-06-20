@@ -9,7 +9,7 @@ for i in range(1,500,2):
         soma += i
 print(f'A soma de todos os {cont} valores solicitados é {soma}')
 
-#Respotsa Gustavo
+#Resposta Gustavo
 soma = 0 # acumulador
 cont = 0 # acumulador
 for c in range(1, 501, 2):
