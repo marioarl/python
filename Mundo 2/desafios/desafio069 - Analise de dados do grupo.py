@@ -6,7 +6,7 @@ B) quantos homens foram cadastrados
 C) quantas mulheres tem menos de 20 anos.
 '''
 
-#minha resposta
+#Minha resposta
 mais18 = h = m = menos20 = 0
 while True:
     print('-'*20)
