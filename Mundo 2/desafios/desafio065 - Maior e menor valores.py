@@ -24,7 +24,7 @@ print(f"Voce digitou {cont} numeros e a média foi {media}")
 print(f"O maior valor foi {maior} e o menor foi {menor}")
 
 
-#resposta do Gustavo
+#Resposta do Gustavo
 resp = 'S'
 soma = quant = media = maior = menor = 0
 while resp in 'Ss':
