@@ -23,7 +23,7 @@ while True:
 
 print('PROGRAMA TABUADA ENCERRADO. Volte sempre!')
 
-#resposta do Gustavo
+#Resposta do Gustavo
 while True:
     n = int(input('Quer ver a tabuada de qual valor? '))
     print('-'*30)
