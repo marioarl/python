@@ -3,7 +3,7 @@ Faça um programa que jogue par ou impar com o computador. O jogo será interrom
 jogador PERDER, mostrando o total de vitorias consecutivas que ele conquistou no final do jogo
 '''
 
-#minha resposta
+#Minha resposta
 from random import randint
 v = 0
 print("-="*20)
