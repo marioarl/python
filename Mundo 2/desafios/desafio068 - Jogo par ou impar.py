@@ -40,7 +40,7 @@ while True:
             break
 print(f"GAME OVER! Voce venceu {v} vezes.")
 
-#resposta do Gustavo
+#Resposta do Gustavo
 v = 0
 print('=-='*15)
 print('VAMOS JOGAR PAR OU IMPAR')
