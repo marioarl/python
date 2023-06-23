@@ -21,6 +21,7 @@ while mais != 0:
     mais = int(input('Quantos termos voce quer mostrar a mais? '))
 print('Progressao finalizada com {} termos mostrados'.format(total))
 
+
 #Resposta do Gustavo
 print('Gerador de PA')
 print('-=' * 10)
