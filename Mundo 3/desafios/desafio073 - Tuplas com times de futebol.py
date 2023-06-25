@@ -23,7 +23,7 @@ print('\033[32mTimes em ordem alfabetica:\033[m',sorted(times))
 print('-='*30)
 print(f'\033[31mO Chapecoense está na {chap}a. posicao\033[m')
 
-#reposta do Gustavo
+#Reposta do Gustavo
 times = ('Corinthians', 'Palmeiras', 'Santos', 'Gremio', 'Cruzeiro', 'Flamengo', 'Vasco', 'Chapecoense',
          'Atletico', 'Botafogo', 'Atletico-PR', 'Bahia', 'Sao Paulo', 'Fluminense', 'Sport Recife',
          'EC Vitoria', 'Coritiba', 'Avai', 'Ponte Preta', 'Atletico-GO')
