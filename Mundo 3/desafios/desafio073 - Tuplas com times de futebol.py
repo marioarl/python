@@ -7,7 +7,7 @@ C) Uma lista com os times em ordem alfabetica
 D) Em que posicao na tabela está o time da Chapecoense
 '''
 
-#minha resposta
+#Minha resposta
 times = ('Corinthians', 'Palmeiras', 'Santos', 'Gremio', 'Cruzeiro', 'Flamengo', 'Vasco', 'Chapecoense',
          'Atletico', 'Botafogo', 'Atletico-PR', 'Bahia', 'Sao Paulo', 'Fluminense', 'Sport Recife',
          'EC Vitoria', 'Coritiba', 'Avai', 'Ponte Preta', 'Atletico-GO')
