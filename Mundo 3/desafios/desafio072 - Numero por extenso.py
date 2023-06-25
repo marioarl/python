@@ -15,7 +15,7 @@ while True:
         break
 print(f'Voce digitou o numero {extenso[digit]}')
 
-#resposta do Gustavo
+#Resposta do Gustavo
 cont = ('Zero', 'Um', 'Dois', 'Tres', 'Quatro', 'Cinco', 'Seis', 'Sete', 'Oito', 'Nove', 'Dez',
         'Onze', 'Doze', 'Treze', 'Quatorze', 'QUinze', 'Dezesseis', 'Dezessete', 'Dezoito', 'Dezenove', 'Vinte')
 while True:
