@@ -4,7 +4,7 @@ zero até vinte.
 Seu programa deverá ler um numero pelo teclado (entre 0 e 20) e mostra-lo por extenso
 '''
 
-#minha resposta
+#Minha resposta
 extenso = ('Zero', 'Um', 'Dois', 'Tres', 'Quatro', 'Cinco', 'Seis', 'Sete', 'Oito', 'Nove', 'Dez',
            'Onze', 'Doze', 'Treze', 'Quatorze', 'QUinze', 'Dezesseis', 'Dezessete', 'Dezoito', 'Dezenove', 'Vinte')
 digit = int(input('Digite um numero entre 0 e 20: '))
