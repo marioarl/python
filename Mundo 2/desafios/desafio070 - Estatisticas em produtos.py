@@ -57,7 +57,7 @@ for c in listam:
     print(f'{c}, ', end='')
 print(f'\nO produto mais barato foi \033[33m{barato}\033[m e custa R${menor:.2f}')
 
-#resposta do Gustavo
+#Resposta do Gustavo
 total = totmil = menor = cont = 0
 barato = ""
 while True:
