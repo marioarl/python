@@ -33,7 +33,7 @@ while True:
 print('='*40)
 print('FIM DA OPERAÇÃO') 
 
-#resposta do Gustavo
+#Resposta do Gustavo
 print('='*30)
 print('{:^30}'.format('BANCO CEV'))
 print('='*30)
