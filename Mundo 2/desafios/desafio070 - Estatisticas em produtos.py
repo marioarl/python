@@ -6,7 +6,7 @@ B) Quantos produtos custam mais de R$1000
 C) Qual é o nome do produto mais barato
 '''
 
-#minha resposta
+#Minha resposta
 print('-'*30)
 print('{:^30}'.format('LOJAS SUPER BARATÃO'))
 print('-'*30)
