@@ -4,7 +4,7 @@ Depois disso, mostre a listagem de numeros gerados e tambem indique o menor valo
 estao na TUPLA
 '''
 
-#minha resposta
+#Minha resposta
 from random import randint
 numeros = (randint(1, 10), randint(1, 10), randint(1, 10), randint(1, 10), randint(1, 10))
 print('Os valores sorteados foram:', end=' ')
