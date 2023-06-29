@@ -1,5 +1,5 @@
 '''crie um programa onde o usuario possa digitar varios valores numericos e cadastre-os em uma lista. Caso o numero já exista lá dentro, ele nao será adicionado. No final serao exibidos todos os valores unicos digitados em ordem crescente'''
-#minha resposta
+#Minha resposta
 num = []
 while True:
     n = (int(input('Digite um valor: ')))
