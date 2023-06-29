@@ -5,7 +5,7 @@ B) A lista de valores ordenada de forma decrescente
 C) Se o valor 5 foi digitado e está ou nao na lista
 '''
 
-#minha resposta
+#Minha resposta
 num = []
 while True:
     num.append(int(input('Digite um valor: ')))
