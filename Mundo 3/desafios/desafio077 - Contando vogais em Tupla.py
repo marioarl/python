@@ -14,7 +14,7 @@ for c in palavras:
 
 
 
-#resposta do Gustavo
+#Resposta do Gustavo
 palavras = ('aprender', 'programar', 'linguagem', 'python', 
             'curso', 'gratis', 'estudar', 'praticar',
             'trabalhar', 'mercado', 'programador', 'futuro')
