@@ -2,7 +2,7 @@
 Crie um programa que tenha uma TUPLA com varias palavras (nao usar acento). Depois disso, voce deve mostrar, para cada palavra, quais sao as suas vogais
 '''
 
-#minha resposta
+#Minha resposta
 palavras = ('aprender', 'programar', 'linguagem', 'python', 
             'curso', 'gratis', 'estudar', 'praticar',
             'trabalhar', 'mercado', 'programador', 'futuro')
