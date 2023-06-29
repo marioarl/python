@@ -2,7 +2,7 @@
 A)Quantas vezes apareceu o valor 9
 B)Em que posicao foi digitado o primeiro valor 3
 C)Quais foram os numeros pares'''
-#minha resposta 
+#Minha resposta 
 from os import system
 system('cls')
 num = (int(input('Digite um numero: ')), 
