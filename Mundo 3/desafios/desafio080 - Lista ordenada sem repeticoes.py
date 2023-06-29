@@ -21,7 +21,7 @@ for c in range(0, 5):
 print('-=' * 30)
 print(f'Os valores digitados em ordem foram {numeros}')
 
-#resposta do Gustavo
+#Resposta do Gustavo
 lista = []
 for c in range(0, 5):
     n = int(input('Digite um valor: '))
