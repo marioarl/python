@@ -22,7 +22,7 @@ for p in num:
     if p % 2 == 0:
         print(f'[{p}]', end="")
 
-#resposta do Gustavo
+#Resposta do Gustavo
 num = (int(input('Digite um numero: ')),
            int(input('Digite outro numero: ')),
            int(input('Digite mais um numero: ')),
