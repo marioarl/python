@@ -45,7 +45,7 @@ for i, v in enumerate(num):
         print(f'{i}...', end='')
 print()
 
-#resposta do Gustavo
+#Resposta do Gustavo
 listanum = []
 mai = 0
 men = 0
