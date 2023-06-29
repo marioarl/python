@@ -23,7 +23,7 @@ for l in range(0, len(lista)):
         print(f'R${lista[l]:>7.2f}')
 print('-'*40)
 
-#resposta do Gustavo
+#Resposta do Gustavo
 listagem = ('Lápis', 1.75,
             'Borracha', 2.00,
             'Caderno', 15.90,
