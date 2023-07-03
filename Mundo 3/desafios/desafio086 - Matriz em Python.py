@@ -25,7 +25,7 @@ print(f'[  {num[0][0]:^5}  ]', f'[  {num[0][1]:^5}  ]', f'[  {num[0][2]:^5}  ]')
 print(f'[  {num[1][0]:^5}  ]', f'[  {num[1][1]:^5}  ]', f'[  {num[1][2]:^5}  ]')
 print(f'[  {num[2][0]:^5}  ]', f'[  {num[2][1]:^5}  ]', f'[  {num[2][2]:^5}  ]')
 
-#resposta Gustavo
+#Resposta Gustavo
 matriz = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
 for l in range(0,3):
     for c in range(0,3):
