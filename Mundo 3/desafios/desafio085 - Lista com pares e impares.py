@@ -21,7 +21,7 @@ print('-='*30)
 print(f'Os valores pares digitados foram: {numeros[0]}')
 print(f'Os valores impares digitados foram: {numeros[1]}')
 
-#resposta Gustavo
+#Resposta Gustavo
 num = [[], []]
 valor = 0
 for c in range(1, 8):
