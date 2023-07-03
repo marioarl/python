@@ -3,7 +3,7 @@ Crie um programa onde o usuario possa digitar 7 valores numericos e cadastre-os 
 mantenha separados os valores PARES e IMPARES. No final, mostre os valores pares e impares em ordem crescente
 '''
 
-#minha resposta
+#Minha resposta
 numeros = list()
 pares = list()
 impares = list()
