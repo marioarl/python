@@ -26,7 +26,7 @@ print(f'A lista de pares é {par}')
 print(f'A lista de impares é {impar}')
 
 
-#resposta do Gustavo
+#Resposta do Gustavo
 num = list()
 pares = list()
 impares = list()
