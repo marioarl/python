@@ -5,7 +5,7 @@ B) A soma dos valores da terceira coluna
 C) O maior valor da segunda linha
 '''
 
-#minha resposta
+#Minha resposta
 matriz = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
 pares = []
 sumpares = 0
