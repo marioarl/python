@@ -9,7 +9,7 @@ Crie um programa que crie uma matriz de dimensao 3x3 e preencha com valores lido
    |_____|_____|_____|
       0     1      2
 '''
-#minha resposta
+#Minha resposta
 num = [[], [], []]
 for n in range(0, 3):
     valor = int(input(f'Digite um valor para [0, {n}]: '))
