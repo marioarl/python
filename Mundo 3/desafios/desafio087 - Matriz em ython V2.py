@@ -26,7 +26,7 @@ print(f'A soma dos valores da terceira coluna é {sum}')
 maior = max(matriz[1])
 print(f'O maior valor da segunda linha é {maior}')
 
-#resposta Gustavo
+#Resposta Gustavo
 matriz = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
 spar = mai = scol =0
 for l in range(0,3):
