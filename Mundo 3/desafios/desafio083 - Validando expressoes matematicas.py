@@ -3,7 +3,7 @@ Crie um programa onde o usuario digite uma expressao matematica qualquer que use
 Seu programa devera analisar se a expressao passada esta com os parenteses abertos e fechados na ordem correta
 '''
 
-#resposta do Gustavo
+#Resposta do Gustavo
 expr = str(input('Digite a expressao: '))
 pilha = []
 for simb in expr:
