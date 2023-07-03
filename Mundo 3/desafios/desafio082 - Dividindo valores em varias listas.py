@@ -4,7 +4,7 @@ Depois disso crie 2 listas extras que vao conter apenas os valores pares e eu ou
 Ao final mostre o conteudo das 3 listas geradas
 '''
 
-#minha resposta
+#Minha resposta
 lista = []
 par = []
 impar = []
